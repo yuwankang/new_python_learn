@@ -1,1 +1,1 @@
-# yuwankang-python_learn
+# 강유완의 파이썬 공부
